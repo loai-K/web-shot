@@ -1,4 +1,4 @@
-# [WebShot][https://github.com/loai-K/web-shot]
+# [WebShot](https://github.com/loai-K/web-shot)
 > Node API to Generate screenshots Images and PDFs of web pages.
 
 [![WebShot][prject-image]][prject-url]
